@@ -1,0 +1,28 @@
+id:
+  spree:
+    footer_right: "Company  <br/>  <br/> Web"
+    footer_right2: "Lokalsayur <br/> Segar dan Dekat <br/> www.lokalsayur.com"
+
+    size: "Ukuran"
+    price: "Harga"
+    order_date: "Tanggal Pesan"
+    ship_adjustment: "Shipping Adjustments"
+    shipment_amount: "Shipping Amount"
+    state: "Status"
+    method: "Metode"
+    amount: "Total"
+    invoice:
+      header: Customer Invoice
+      thanks: Terimakasih atas pesanan anda
+      print: Print Invoice
+    packaging_slip:
+      header: Packaging Slip
+      print: Print Slip
+      thanks: Silahkan cek detil pesanan anda
+    reminder:
+      header: Payment Reminder
+      print: Pengingat
+      thanks: Our system has not registered any payment for this Invoice. We kindly request you correct this situation.
+    receipt:
+      header: Receipt
+      print: Receipt
